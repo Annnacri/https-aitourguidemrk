@@ -183,7 +183,7 @@ AI Tourguide Creator is the result of applying Generative AI and AI-assisted sof
 
 ### Try AI Tourguide Creator
 
-👉 **https://aitourguide-ajtcs7g9.manus.space/**
+
 
 The project is currently being developed as a SaaS product for tourism professionals.
 
